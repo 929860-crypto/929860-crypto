@@ -1,16 +1,44 @@
-## Hi there 👋
+🧾 Información General
+Nombre completo: Moises Daniel Lopez
 
-<!--
-**929860-crypto/929860-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Edad: [20]
 
-Here are some ideas to get you started:
+Grado / Sección: Sección B
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Especialidad: Software
+
+Institución: [Nombre de tu institución]
+
+🎯 Intereses
+[Desarrollo Web o Móvil]
+
+[Desarrollo de Videojuegos]
+
+[LIMPIEZA EN SISTEMAS INFORMATICOS ]
+
+🧠 Habilidades
+[Habilidad 1]
+
+[Habilidad 2]
+
+[Habilidad 3]
+
+💻 Conocimientos Técnicos
+Lenguajes de programación: [Ej: Python, Java, C#]
+
+Herramientas tecnológicas: [Ej: VS Code, Git, Docker]
+
+Otros conocimientos: [Ej: Bases de datos, metodologías ágiles]
+
+📚 Experiencia Académica
+[Proyecto o trabajo 1]
+
+[Proyecto o trabajo 2]
+
+🎯 Objetivos Personales
+[Objetivo 1]
+
+[Objetivo 2]
+
+📌 Notas
+Información adicional que el estudiante desee agregar.
