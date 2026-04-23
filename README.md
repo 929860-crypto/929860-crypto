@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gemaortizprivados23-lgtm/gemaortizprivados23-lgtm/main/banner.png" width="95%" />
+  <img src="https://github.com/929860-crypto/929860-crypto/blob/e5ad11de234e9a49a990d7f4ef526c86d26b32f7/Gemini_Generated_Image_n38xszn38xszn38x.png" width="95%" />
 </p>
 🧾 Información General
 Nombre completo: Moises Daniel Lopez
